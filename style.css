@@ -1,0 +1,70 @@
+
+ .container {
+     
+    background: #cccccc;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 960px;
+    
+}
+.head {
+    background: #4aaaa5;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.h1 {
+    background: #4aaaa5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.naviation {
+    background: chartreuse;
+}
+.main {
+    width: 960px;
+    background: #ffffff;
+    border-color: #cccccc;
+}
+.about-image {
+    margin: 0;
+    width: 250px;
+    height: ;
+}
+.footer {
+    padding: 20px;
+    margin: 0;
+    background: #666666;
+    border-top: outset;
+    border-top-color: #4aaaa5;
+    border-top-width: 5px;
+}
+.h11 {
+    background: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.name {
+
+}
+.nameinput {
+    width: 900px;
+    padding: 5px;
+}
+.emailinput {
+    width: 900px;
+    padding: 5px;
+}
+.messaseinput {
+    width: 900px;
+    padding: 70px;
+}
+.submit {
+    background: #4aaaa5;
+    padding: 10px;
+    width: 90px;
+}
